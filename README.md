@@ -1,3 +1,3 @@
 # Mostaql Freelance-platform
-## Header branch added => for Shady task
-## Footer branch added => for Sully task
+**_NOTE:_** Header branch added => for Shady task
+**_NOTE:_** Footer branch added => for Sully task
