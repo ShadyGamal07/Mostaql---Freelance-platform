@@ -1,0 +1,52 @@
+/**
+* Navbar
+* Header
+* Footer
+*/
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap');
+
+/* Body */
+body {
+    padding: 0;
+    margin: 0;
+    background:  black/*#f0f0f0*/;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+    font-size: 16px;
+    color: red;
+    direction: rtl;
+}
+
+/* Navbar */
+.mostaql-nav {
+    background-color: #2386c8;
+    height: 60px;
+}
+
+.mostaql-nav .container-fluid {
+    padding: 0;
+    margin-left: 38px !important;
+    margin-right: 38px !important;
+}
+
+.mostaql-nav-menu i {
+    padding-left: 37px;
+    padding-top: 17px;
+}
+
+.mostaql-logo-img {
+    max-height: 36px;
+}
+
+.mostaql-nav ul li a {
+    font-weight: 400;
+    font-size: 14px;
+    color:white;
+}
+
+.nav-is-button {
+    border: 1px solid hsla(0,0%,94%,.5);
+    padding: 9px;
+    margin-right: 10px;
+}
